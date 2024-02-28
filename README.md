@@ -47,6 +47,8 @@ In "Sales Data Analysis," you will work with a substantial sales dataset to expl
 *	Data visualization.
 *	Presentation of insights to support decision-making.
 
+![Sales Data Analysis](https://github.com/Rohit-Moghe/Meri-Skill/blob/98f06813b464049f30c7e20230b40df3842165c7/Sales%20Data%20Analysis/Sales%20Data%20Analysis.jpg)
+
 ## Project 2: Diabetes Patients
 About Dataset: This project focuses on a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases. Its objective is to predict whether a patient has diabetes based on diagnostic measurements. The dataset includes specific constraints such as the inclusion of females at least 21 years old of Pima Indian heritage.
 
