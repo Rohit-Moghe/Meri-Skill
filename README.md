@@ -14,12 +14,14 @@ Some of the key tasks that interns can expect to perform include:
 •	Conducting statistical analysis
 •	Building and interpreting data models
 •	Creating data visualizations
-•	Communicating insights to stakeholders
+• Communicating insights to stakeholders
+
 Interns will also have the opportunity to learn about the different tools and technologies that are used in data analysis, such as Python, SQL, and Tableau.
 The Meri Skill data analysis internship is a great opportunity for students and recent graduates who are interested in pursuing a career in data analysis. The internship will provide them with the skills and experience they need to be successful in this rapidly growing field.
 
 Project done in the Internship
-Project 1: Sales Data Analysis
+
+## Project 1: Sales Data Analysis
 
 Purpose: The purpose of this project is to analyze sales data to extract valuable insights that can inform business decision-making. It involves identifying sales trends, top-selling products, and key revenue metrics.
 
@@ -34,7 +36,7 @@ Expected Skills to Gain:
 •	Data visualization.
 •	Presentation of insights to support decision-making.
 
-Project 2: Diabetes Patients
+## Project 2: Diabetes Patients
 About Dataset: This project focuses on a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases. Its objective is to predict whether a patient has diabetes based on diagnostic measurements. The dataset includes specific constraints such as the inclusion of females at least 21 years old of Pima Indian heritage.
 
 Expected Skills to Gain:
@@ -46,8 +48,10 @@ Expected Skills to Gain:
 •	Predictive analytics.
 •	Understanding of medical data analysis.
 
-Project 3: HR Analytics
+## Project 3: HR Analytics
+
 Tasks to Perform:
+
 Data Cleaning:
 •	Deleting redundant columns.
 •	Renaming columns for clarity.
