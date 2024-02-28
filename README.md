@@ -10,11 +10,11 @@ About the Internship
 The Meri Skill data analysis internship is a 3-6 month program that provides students and recent graduates with real-world experience in the field of data analysis. Interns will have the opportunity to work on real-time projects, collaborate with experienced professionals, and learn from the latest trends and technologies.
 Some of the key tasks that interns can expect to perform include:
 
-•	Collecting, cleaning, and preparing data
-•	Conducting statistical analysis
-•	Building and interpreting data models
-•	Creating data visualizations
-• Communicating insights to stakeholders
+*	Collecting, cleaning, and preparing data
+*	Conducting statistical analysis
+*	Building and interpreting data models
+*	Creating data visualizations
+* Communicating insights to stakeholders
 
 Interns will also have the opportunity to learn about the different tools and technologies that are used in data analysis, such as Python, SQL, and Tableau.
 The Meri Skill data analysis internship is a great opportunity for students and recent graduates who are interested in pursuing a career in data analysis. The internship will provide them with the skills and experience they need to be successful in this rapidly growing field.
