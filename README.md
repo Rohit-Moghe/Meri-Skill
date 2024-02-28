@@ -1,3 +1,12 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+# Meri Skill
+
 Meri Skill is a non-profit organization in India that aims to empower women and girls through skills training and livelihood opportunities. It was founded in 2012 by Meri A. Aaron Walker, a communication strategist with a passion for women's empowerment.
 
 Meri Skill offers a variety of skills training programs in areas such as sewing, tailoring, embroidery, handicrafts, and computer literacy. These programs are designed to help women and girls develop the skills they need to start their own businesses or find employment in high-growth sectors.
