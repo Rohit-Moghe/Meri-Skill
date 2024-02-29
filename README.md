@@ -52,7 +52,7 @@ In "Sales Data Analysis," you will work with a substantial sales dataset to expl
 ## Project 2: Diabetes Patients
 About Dataset: This project focuses on a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases. Its objective is to predict whether a patient has diabetes based on diagnostic measurements. The dataset includes specific constraints such as the inclusion of females at least 21 years old of Pima Indian heritage.
 
-![Diabetes](https://github.com/Rohit-Moghe/Meri-Skill/blob/9194798619d9142e755762a6b7f7b42dd51448c2/Diabetes%20Prediction/Diabetes_Patients.ipynb)
+![Diabetes][https://github.com/Rohit-Moghe/Meri-Skill/blob/9194798619d9142e755762a6b7f7b42dd51448c2/Diabetes%20Prediction/Diabetes_Patients.ipynb]
 
 ### Expected Skills to Gain:
 
