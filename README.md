@@ -52,7 +52,7 @@ In "Sales Data Analysis," you will work with a substantial sales dataset to expl
 ## Project 2: Diabetes Patients
 About Dataset: This project focuses on a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases. Its objective is to predict whether a patient has diabetes based on diagnostic measurements. The dataset includes specific constraints such as the inclusion of females at least 21 years old of Pima Indian heritage.
 
-![Diabetes][https://github.com/Rohit-Moghe/Meri-Skill/blob/9194798619d9142e755762a6b7f7b42dd51448c2/Diabetes%20Prediction/Diabetes_Patients.ipynb]
+![Diabetes](https://github.com/Rohit-Moghe/Meri-Skill/blob/9194798619d9142e755762a6b7f7b42dd51448c2/Diabetes%20Prediction/Diabetes_Patients.ipynb)
 
 ### Expected Skills to Gain:
 
@@ -66,6 +66,7 @@ About Dataset: This project focuses on a dataset from the National Institute of 
 ![Diabetes](https://github.com/Rohit-Moghe/Meri-Skill/blob/9194798619d9142e755762a6b7f7b42dd51448c2/Diabetes%20Prediction/diabetes.png)
 
 ## Project 3: HR Analytics
+![HR Analytics](https://github.com/Rohit-Moghe/Meri-Skill/blob/2ddda0f8bd53db7fe97d090651140aa786ea4931/HR%20Analytics/Images/HR%20Analytics_page-0001.jpg)
 
 ### Tasks to Perform:
 
@@ -89,5 +90,25 @@ About Dataset: This project focuses on a dataset from the National Institute of 
 *	Correlation analysis.
 *	Understanding HR-related metrics.
 *	Presentation of HR insights to inform decision-making.
+
+### Demographics
+The demographic report summarizes employee statistics, including age groups, gender, distance from home, work-life balance, education field and marital status, providing insight into workforce diversity and commuting patterns for informed decision-making.
+
+![HR Analytics](https://github.com/Rohit-Moghe/Meri-Skill/blob/2ddda0f8bd53db7fe97d090651140aa786ea4931/HR%20Analytics/Images/HR%20Analytics_page-0002.jpg)
+
+### Turnover Analysis - I
+The Turnover Analysis 1 report provides insights into employee attrition, including departures by department, job roles affected, business travel impact, and the total years in the current role, aiding in workforce management and retention strategies.
+
+![HR Analytics](https://github.com/Rohit-Moghe/Meri-Skill/blob/2ddda0f8bd53db7fe97d090651140aa786ea4931/HR%20Analytics/Images/HR%20Analytics_page-0003.jpg)
+
+### Turnover Analysis - II
+The turnover analysis 2 report consolidates employee data, featuring attrition by job level, overtime, performance ratings, and average monthly income, offering critical insights for effective HR strategies and decision-making.
+
+![HR Analytics](https://github.com/Rohit-Moghe/Meri-Skill/blob/2ddda0f8bd53db7fe97d090651140aa786ea4931/HR%20Analytics/Images/HR%20Analytics_page-0004.jpg)
+
+### Employee Wellness
+The Employee Wellness report offers insights into attrition rates categorized by environment satisfaction, relationship satisfaction, job involvement, and job satisfaction, enabling proactive measures to enhance employee well-being and retention.
+
+![HR Analytics](https://github.com/Rohit-Moghe/Meri-Skill/blob/2ddda0f8bd53db7fe97d090651140aa786ea4931/HR%20Analytics/Images/HR%20Analytics_page-0005.jpg)
 
 Each of these projects offers a unique opportunity to gain valuable skills in data analysis, machine learning, and data-driven decision-making. Whether it's optimizing sales strategies, predicting medical outcomes, or improving HR practices, these projects will help you develop a diverse set of skills applicable to various domains.
