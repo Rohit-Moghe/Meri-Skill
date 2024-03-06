@@ -109,6 +109,6 @@ The turnover analysis 2 report consolidates employee data, featuring attrition b
 ### Employee Wellness
 The Employee Wellness report offers insights into attrition rates categorized by environment satisfaction, relationship satisfaction, job involvement, and job satisfaction, enabling proactive measures to enhance employee well-being and retention.
 
-![HR Analytics](https://github.com/Rohit-Moghe/Meri-Skill/blob/2ddda0f8bd53db7fe97d090651140aa786ea4931/HR%20Analytics/Images/HR%20Analytics_page-0005.jpg)
+![HR Analytics](https://github.com/Rohit-Moghe/Meri-Skill/blob/cca7f582a4399dfe8e3b9f989b1f7c267900ef40/Sales%20Data%20Analysis/5_page-0001.jpg)
 
 Each of these projects offers a unique opportunity to gain valuable skills in data analysis, machine learning, and data-driven decision-making. Whether it's optimizing sales strategies, predicting medical outcomes, or improving HR practices, these projects will help you develop a diverse set of skills applicable to various domains.
